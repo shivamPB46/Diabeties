@@ -1,0 +1,6 @@
+glucose,bmi,age,bp,diabetes,medicine
+120,24,35,80,0,None
+160,32,45,90,1,Metformin
+180,35,52,95,1,Insulin
+140,28,40,85,1,Metformin
+110,22,30,75,0,None
